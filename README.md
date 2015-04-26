@@ -53,4 +53,4 @@ The remaining icons are created by Horst3180 and are licensed under the terms of
 
 ===
 
-![alt tag](http://i.imgur.com/ZvQjcgD.png)
+![alt tag](http://i.imgur.com/paECSRR.png)
