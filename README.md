@@ -50,3 +50,7 @@ All credits for third party icons used in this theme go to their respective crea
 **Moka:** http://mokaproject.com/moka-icon-theme licensed under the terms of the GPL v3
 
 The remaining icons are created by Horst3180 and are licensed under the terms of the GPL v3
+
+===
+
+![alt tag](http://i.imgur.com/ZvQjcgD.png)
