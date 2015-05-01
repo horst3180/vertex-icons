@@ -39,7 +39,7 @@
       <stop
          id="stop4264"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.56862748" />
+         style="stop-color:#000000;stop-opacity:0.627451" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -159,6 +159,33 @@
          offset="1"
          id="stop3931-3" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303"
+       id="radialGradient4309-7"
+       cx="31"
+       cy="52.599998"
+       fx="31"
+       fy="52.599998"
+       r="31"
+       gradientTransform="matrix(4.2258064,0,0,0.12903193,-67,104.41293)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4303">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.19018404"
+         offset="0"
+         id="stop4305" />
+      <stop
+         id="stop4311"
+         offset="0.72671854"
+         style="stop-color:#000000;stop-opacity:0.05882353" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4307" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -173,9 +200,9 @@
      inkscape:window-height="718"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="4"
-     inkscape:cx="21.722095"
-     inkscape:cy="33.810344"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="75.276176"
+     inkscape:cy="81.097622"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -187,6 +214,13 @@
        type="xygrid"
        id="grid2987" />
   </sodipodi:namedview>
+  <ellipse
+     cx="64"
+     cy="111.2"
+     rx="62"
+     ry="3.9999993"
+     id="path4293-4"
+     style="display:inline;opacity:1;fill:url(#radialGradient4309-7);fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <g
      transform="translate(1,72)"
      style="display:inline"
@@ -195,36 +229,17 @@
     <g
        transform="translate(0,1)"
        id="g4075">
-      <rect
-         style="opacity:0.15;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;"
-         id="rect3915-0"
-         width="124"
-         height="80"
-         x="1.448"
-         y="-40"
-         rx="2"
-         ry="2"
-         transform="matrix(0.99304866,0,0,1,-0.00695134,0.19982652)" />
       <path
          id="rect3967"
          d="m 17,-59 c -1.108,0 -2,0.892 -2,2 l 0,6 -6,0 c -1.108,0 -2,0.892 -2,2 l 0,10 c 0,1.108 0.892,2 2,2 l 108,0 c 1.108,0 2,-0.892 2,-2 l 0,-10 c 0,-1.108 -0.892,-2 -2,-2 l -62,0 0,-6 c 0,-1.108 -0.892,-2 -2,-2 z"
          style="fill:#000000;fill-opacity:0.65882353;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="sscsssssssscsss" />
-      <rect
-         style="fill:#8b8b8d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="rect3969"
-         width="110"
-         height="12"
-         x="8"
-         y="-50"
-         ry="1" />
       <path
-         sodipodi:nodetypes="sssccccss"
-         inkscape:connector-curvature="0"
-         id="rect3945"
-         d="m 17,-58 36,0 c 0.512693,0 1.01074,0.45094 1,1 l 0,7 0,0 -38,0 0,0 0,-7 c 0,-0.54027 0.479564,-1 1,-1 z"
-         style="fill:#8b8b8d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1" />
+         style="fill:#8b8b8d;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="M 18 15 C 17.479564 15 17 15.45973 17 16 L 17 23 L 10 23 C 9.446 23 9 23.446 9 24 L 9 34 C 9 34.554 9.446 35 10 35 L 118 35 C 118.554 35 119 34.554 119 34 L 119 24 C 119 23.446 118.554 23 118 23 L 55 23 L 55 16 C 55.01074 15.45094 54.512693 15 54 15 L 18 15 z "
+         transform="translate(-1,-73)"
+         id="rect3969" />
       <rect
          style="fill:url(#linearGradient3794);fill-opacity:1.0;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="rect3915"

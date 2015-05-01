@@ -358,6 +358,33 @@
          offset="1"
          id="stop5031" />
     </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303"
+       id="radialGradient4309"
+       cx="31"
+       cy="52.599998"
+       fx="31"
+       fy="52.599998"
+       r="31"
+       gradientTransform="matrix(1.3157302,0,0,0.06451598,-8.7876379,36.606454)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4303">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.19018404"
+         offset="0"
+         id="stop4305" />
+      <stop
+         id="stop4311"
+         offset="0.74412525"
+         style="stop-color:#000000;stop-opacity:0.05882353" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4307" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -368,17 +395,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1364"
+     inkscape:window-width="1366"
      inkscape:window-height="718"
      id="namedview4"
-     showgrid="true"
+     showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="27.961405"
-     inkscape:cy="43.956298"
+     inkscape:zoom="8"
+     inkscape:cx="15.859696"
+     inkscape:cy="24.678074"
      inkscape:window-x="0"
      inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer4"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -420,6 +447,13 @@
      inkscape:label="Ebene#1"
      style="display:inline"
      transform="translate(0,16)">
+    <ellipse
+       id="path4293"
+       style="display:inline;opacity:1;fill:url(#radialGradient4309);fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       ry="2"
+       rx="31"
+       cy="40"
+       cx="32" />
     <rect
        style="display:inline;fill:url(#linearGradient5033);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3915-8"
@@ -429,15 +463,6 @@
        y="-8.9999943"
        rx="2"
        ry="1.9999999" />
-    <rect
-       ry="2"
-       rx="2"
-       y="-8.9999943"
-       x="1"
-       height="49.999996"
-       width="62"
-       id="rect3915-0"
-       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="0.99999523"
        rx="0.99999237"

@@ -342,6 +342,33 @@
        x2="32"
        y2="33.000195"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4303"
+       id="radialGradient4309-7"
+       cx="31"
+       cy="52.599998"
+       fx="31"
+       fy="52.599998"
+       r="31"
+       gradientTransform="matrix(3.467742,0,0,0.09677397,-59.500002,78.709694)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4303">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.19018404"
+         offset="0"
+         id="stop4305" />
+      <stop
+         id="stop4311"
+         offset="0.69999999"
+         style="stop-color:#000000;stop-opacity:0.05882353" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4307" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -366,9 +393,9 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="34.262486"
-     inkscape:cy="36.537749"
+     inkscape:zoom="8"
+     inkscape:cx="54.763817"
+     inkscape:cy="20.352989"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -388,6 +415,13 @@
        position="48,42"
        id="guide3226" />
   </sodipodi:namedview>
+  <ellipse
+     style="display:inline;opacity:1;fill:url(#radialGradient4309-7);fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path4293-4"
+     ry="3"
+     rx="46"
+     cy="83.800003"
+     cx="48" />
   <rect
      ry="1.9999999"
      rx="2"
@@ -402,15 +436,6 @@
      inkscape:label="Ebene#1"
      style="display:inline;opacity:1"
      transform="translate(0.99999499,18.999995)">
-    <rect
-       ry="2"
-       rx="1.9999999"
-       y="-8.9999943"
-       x="0.99999988"
-       height="74.999992"
-       width="92"
-       id="rect3915-0-9"
-       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        ry="0.99999517"
        rx="0.99999243"
