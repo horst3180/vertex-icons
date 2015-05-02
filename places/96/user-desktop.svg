@@ -258,7 +258,7 @@
        inkscape:collect="always"
        id="linearGradient4274">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.66666669"
          offset="0"
          id="stop4276" />
       <stop
@@ -393,9 +393,9 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:zoom="8"
-     inkscape:cx="54.763817"
-     inkscape:cy="20.352989"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="26.095423"
+     inkscape:cy="61.285143"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -423,8 +423,8 @@
      cy="83.800003"
      cx="48" />
   <rect
-     ry="1.9999999"
-     rx="2"
+     ry="1"
+     rx="1"
      y="10.000001"
      x="1.9999948"
      height="73.999992"
@@ -437,8 +437,6 @@
      style="display:inline;opacity:1"
      transform="translate(0.99999499,18.999995)">
     <rect
-       ry="0.99999517"
-       rx="0.99999243"
        y="-7.9999948"
        x="2.000005"
        height="71.999992"
@@ -470,8 +468,6 @@
        rx="0.99999201"
        ry="0.99999505" />
     <rect
-       ry="0.5"
-       rx="0.49999997"
        y="-7.5"
        x="2.5"
        height="71.000008"

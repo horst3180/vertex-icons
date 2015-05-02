@@ -29,9 +29,9 @@
      inkscape:window-height="718"
      id="namedview56"
      showgrid="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="5.2030042"
-     inkscape:cy="13.439044"
+     inkscape:zoom="22.627416"
+     inkscape:cx="2.2875703"
+     inkscape:cy="20.909047"
      inkscape:window-x="128"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -229,7 +229,7 @@
        inkscape:collect="always"
        id="linearGradient4274">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.66666669"
          offset="0"
          id="stop4276" />
       <stop
@@ -411,8 +411,8 @@
     </rdf:RDF>
   </metadata>
   <rect
-     ry="1.9999999"
-     rx="1.9999999"
+     ry="1"
+     rx="1"
      y="1"
      x="0"
      height="19"
@@ -465,8 +465,6 @@
        rx="0.99999207"
        ry="0.99999505" />
     <rect
-       ry="0.49999997"
-       rx="0.49999997"
        y="3.5"
        x="2.5"
        height="16"

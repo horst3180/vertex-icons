@@ -15,7 +15,7 @@
    inkscape:version="0.91 r13725"
    width="32"
    height="32"
-   sodipodi:docname="user-desktop.svg"
+   sodipodi:docname="preferences-desktop-wallpaper.svg"
    inkscape:export-filename="/home/steffen/.icons/Concrete4/places/48/folder.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -306,7 +306,7 @@
        inkscape:collect="always"
        id="linearGradient4274">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.66666669"
          offset="0"
          id="stop4276" />
       <stop
@@ -648,9 +648,9 @@
      id="namedview4"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:zoom="1"
-     inkscape:cx="7.016614"
-     inkscape:cy="25.11457"
+     inkscape:zoom="11.313708"
+     inkscape:cx="9.250531"
+     inkscape:cy="18.675414"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -685,8 +685,8 @@
        id="guide4349" />
   </sodipodi:namedview>
   <rect
-     ry="2"
-     rx="1.9999999"
+     ry="1"
+     rx="1"
      y="3.000005"
      x="1.000005"
      height="24.99999"
@@ -697,7 +697,7 @@
      id="g4333"
      transform="translate(0,-1.9999998)">
     <rect
-       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3915-0"
        width="29.99999"
        height="25.99999"
@@ -744,9 +744,7 @@
        width="26.999996"
        height="21.999998"
        x="2.500005"
-       y="6.4999995"
-       rx="0.49999997"
-       ry="0.49999997" />
+       y="6.4999995" />
     <circle
        cy="8.5"
        cx="6.0000048"

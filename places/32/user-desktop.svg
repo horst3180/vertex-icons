@@ -306,7 +306,7 @@
        inkscape:collect="always"
        id="linearGradient4274">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#ffffff;stop-opacity:0.66666669"
          offset="0"
          id="stop4276" />
       <stop
@@ -509,9 +509,9 @@
      id="namedview4"
      showgrid="true"
      inkscape:snap-bbox="true"
-     inkscape:zoom="11.313708"
-     inkscape:cx="28.589328"
-     inkscape:cy="18.540047"
+     inkscape:zoom="22.627416"
+     inkscape:cx="7.7018417"
+     inkscape:cy="7.4433464"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
@@ -546,8 +546,8 @@
        id="guide4349" />
   </sodipodi:namedview>
   <rect
-     ry="2"
-     rx="1.9999999"
+     ry="1"
+     rx="1"
      y="3.000005"
      x="1.000005"
      height="24.99999"
@@ -558,13 +558,12 @@
      id="g4333"
      transform="translate(0,-1.9999998)">
     <rect
-       style="display:inline;opacity:0.15;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;opacity:0.1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3915-0"
        width="29.99999"
        height="25.99999"
        x="1.000005"
        y="5.0000048"
-       rx="2"
        ry="2" />
     <rect
        style="fill:url(#linearGradient3933-1);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -572,9 +571,7 @@
        width="27.999985"
        height="22.99999"
        x="2.00001"
-       y="6.0000048"
-       rx="0.99999225"
-       ry="0.99999517" />
+       y="6.0000048" />
     <path
        sodipodi:nodetypes="csssscc"
        inkscape:connector-curvature="0"
@@ -582,8 +579,6 @@
        d="m 16,6.0000021 13.000005,0 c 0.55399,0 0.99999,0.3860347 0.99999,0.6571401 l 0,21.8534968 c 0,0.271105 -0.446,0.489359 -0.99999,0.489359 l -6.000005,0 C 22,20.19149 21,15.297873 16,6.0000021 Z"
        style="display:inline;opacity:0.1;fill:url(#linearGradient3933-1-6);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       ry="0.99999523"
-       rx="0.99999249"
        y="6"
        x="2"
        height="23"
@@ -605,9 +600,7 @@
        width="26.999996"
        height="21.999998"
        x="2.500005"
-       y="6.4999995"
-       rx="0.49999997"
-       ry="0.49999997" />
+       y="6.4999995" />
     <circle
        cy="8.5"
        cx="6.0000048"

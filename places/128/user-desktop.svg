@@ -218,7 +218,7 @@
       <stop
          id="stop4276"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:0.66666669" />
       <stop
          id="stop4278"
          offset="1"
@@ -352,8 +352,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="4"
-     inkscape:cx="43.690649"
-     inkscape:cy="32.616987"
+     inkscape:cx="29.255386"
+     inkscape:cy="53.77485"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -400,8 +400,8 @@
      id="path4293-4"
      style="display:inline;opacity:1;fill:url(#radialGradient4309-7);fill-opacity:1;stroke:none;stroke-width:1.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     ry="2"
-     rx="2.0000002"
+     ry="1"
+     rx="1"
      y="14.000005"
      x="2.000005"
      height="97.999992"
@@ -419,9 +419,7 @@
        width="121.99998"
        height="95.999992"
        x="2.000005"
-       y="-7.9999952"
-       rx="0.99999243"
-       ry="0.99999523" />
+       y="-7.9999952" />
     <path
        sodipodi:nodetypes="csssscc"
        inkscape:connector-curvature="0"
@@ -452,9 +450,7 @@
        width="120.99999"
        height="95"
        x="2.5"
-       y="-7.5"
-       rx="0.49999994"
-       ry="0.5" />
+       y="-7.5" />
     <ellipse
        cy="-3.5000019"
        cx="8.4999981"
