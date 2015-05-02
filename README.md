@@ -1,6 +1,6 @@
 # Vertex Icons (Beta)
 
-**Note:** This is an unfinished beta version. It may not work as expected in all cases.
+**Note:** This is an unfinished beta version. It may not work as expected in some cases.
 
 The Vertex icon theme is designed to go well together with the Vertex Gtk theme.
 At the moment it includes mainly icons for folders and mimetypes.
