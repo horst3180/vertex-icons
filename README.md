@@ -24,6 +24,11 @@ to
     Name=Vertex-Icons
     Inherits=Faenza,gnome,hicolor
     Comment=Vertex Icon theme
+### Requirements
+
+Since this theme doesn't provide application icons, it needs another icon theme to inherit them.
+By default this theme will look for the Moka icon theme (http://mokaproject.com/moka-icon-theme/) to get the missing icons. If Moka is not installed it will use the Gnome icon theme as fallback.
+To change the application icons, edit the `index.theme` file and replace `Moka` with the name of your preferred icon theme
 
 ### Installation
 
